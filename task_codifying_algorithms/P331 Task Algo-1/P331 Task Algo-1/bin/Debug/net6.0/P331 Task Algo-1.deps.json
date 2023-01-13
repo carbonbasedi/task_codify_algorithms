@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "P331 Task Algo-1/1.0.0": {
+        "runtime": {
+          "P331 Task Algo-1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P331 Task Algo-1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
